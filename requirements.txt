@@ -1,0 +1,7 @@
+tensorflow==2.12.1
+numpy==1.22.3  # Adjusted to a version compatible with TensorFlow
+matplotlib==3.5.1  # Adjusted to a version that requires a higher numpy
+scikit-learn==0.24.2  # Check for compatibility
+pandas==1.3.5  # Adjusted to a version compatible with higher numpy versions
+jupyter
+
